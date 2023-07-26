@@ -5,3 +5,14 @@ a passionate developer with a love for creating interactive and user-friendly we
 
 # Tech Stack 
 
+<div>
+  <img src="https://your-image-url.com/react.png" alt="React" width="50" />
+  <img src="https://your-image-url.com/nextjs.png" alt="Next.js" width="50" />
+  <img src="https://your-image-url.com/typescript.png" alt="TypeScript" width="50" />
+  <img src="https://your-image-url.com/javascript.png" alt="JavaScript" width="50" />
+  <img src="https://your-image-url.com/nodejs.png" alt="Node.js" width="50" />
+  <img src="https://your-image-url.com/firebase.png" alt="Firebase" width="50" />
+  <img src="https://your-image-url.com/mongodb.png" alt="MongoDB" width="50" />
+  <img src="https://your-image-url.com/styled-components.png" alt="Styled Components" width="50" />
+  <img src="https://your-image-url.com/tailwindcss.png" alt="Tailwind CSS" width="50" />
+</div>
