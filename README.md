@@ -5,4 +5,3 @@ a passionate developer with a love for creating interactive and user-friendly we
 
 # Tech Stack 
 
-![Alt React]([https://www.datocms-assets.com/14946/1638186862-reactjs.png?auto=format&corner-radius=16&fit=crop&h=312&mask=corners&q=45&w=568&dpr=4)
