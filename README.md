@@ -6,7 +6,7 @@ a passionate developer with a love for creating interactive and user-friendly we
 # Tech Stack 
 
 <div>
-  <img src="https://www.datocms-assets.com/14946/1638186862-reactjs.png?auto=format&corner-radius=16&fit=crop&h=312&mask=corners&q=45&w=568&dpr=4" alt="React" width="50" />
+  <img src="https://www.datocms-assets.com/14946/1638186862-reactjs.png?auto=format&corner-radius=16&fit=crop&h=312&mask=corners&q=45&w=568&dpr=4" alt="React" width="100" />
   <img src="https://your-image-url.com/nextjs.png" alt="Next.js" width="50" />
   <img src="https://your-image-url.com/typescript.png" alt="TypeScript" width="50" />
   <img src="https://your-image-url.com/javascript.png" alt="JavaScript" width="50" />
